@@ -99,3 +99,12 @@ Direction: FRONT
 Confidence: 84%  
 
 EMERGENCY — PULL OVER IMMEDIATELY
+
+
+## Future Improvements
+
+- Real-time microphone input instead of simulated audio
+- Improved dataset using real road recordings
+- Deep learning model for higher accuracy
+- Mobile app integration for visual alerts
+- Hardware prototype for in-car deployment
