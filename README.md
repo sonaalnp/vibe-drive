@@ -26,4 +26,4 @@ direction_detector – simulated sound direction detection
 simulator – full system pipeline  
 
 ## Running the Project
-
+Install dependencies:
