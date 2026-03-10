@@ -8,19 +8,23 @@
 Vibedrive is an intelligent assistive driving system designed to improve road safety for deaf drivers. 
 The system detects important road sounds such as vehicle horns and emergency sirens and converts them into visual alerts.
 
-##System Architecture
+## System Architecture
 
+VibeDrive processes environmental sounds and converts them into visual alerts for deaf drivers.
+
+```
 Audio Input
-   ↓
+    ↓
 Audio Capture
-   ↓
+    ↓
 Feature Extraction (MFCC)
-   ↓
-Sound Classifier (ML Model)
-   ↓
+    ↓
+Sound Classifier (Machine Learning Model)
+    ↓
 Direction Detection
-   ↓
-Alert System
+    ↓
+Visual Alert System
+```
 
 ## Features
 - AI-based sound classification
