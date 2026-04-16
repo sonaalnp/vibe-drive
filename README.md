@@ -8,6 +8,9 @@
 Vibedrive is an intelligent assistive driving system designed to improve road safety for deaf drivers. 
 The system detects important road sounds such as vehicle horns and emergency sirens and converts them into visual alerts.
 
+## 🚀 Live Demo
+https://vibe-drive-64a86c.netlify.app
+
 ## System Architecture
 
 VibeDrive processes environmental sounds and converts them into visual alerts for deaf drivers.
