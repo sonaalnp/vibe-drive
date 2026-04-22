@@ -9,10 +9,10 @@ Vibedrive is an intelligent assistive driving system designed to improve road sa
 The system detects important road sounds such as vehicle horns and emergency sirens and converts them into visual alerts.
 
 ## 🚀 3D Simulation
-https://vibedrive-model-64e137.netlify.app/
+https://vibedrive-3dmodel-64e137.netlify.app/
 
 ## Web APP
-https://vibe-drive-0d00f9.netlify.app/
+https://vibe-drive-64e137.netlify.app/
 
 ## System Architecture
 
